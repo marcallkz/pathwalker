@@ -1,0 +1,13 @@
+{
+  "name": "pathwalker",
+  "version": "0.0.1",
+  "description": "Returns all superior directories from a given directory",
+  "license": "MIT",
+  "author": {
+    "name": "Lucas Marcal",
+    "email": "lucasmarcaldossantos@gmail.com"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  }
+}
